@@ -1,9 +1,6 @@
 ---
 title: Who We Are
 sections:
-  - type: hero_section
-    title: Who We Are
-    align: center
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
@@ -35,6 +32,9 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
+  - type: hero_section
+    title: Who We Are
+    align: center
 seo:
   title: Who We Are
   description: This is the about us page
